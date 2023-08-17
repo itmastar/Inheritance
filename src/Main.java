@@ -11,7 +11,7 @@ public class Main {
         System.out.println(rs1.studentDetails());
         PHDStudent phd1=new PHDStudent("Mandeep singh",1,"Data Analytics","Assistant Professor",50000);
         System.out.println(phd1.studentDetails());
-
+//
 
     }
 }
